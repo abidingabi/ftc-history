@@ -1,0 +1,4 @@
+baseURL = "https://ftchistory.github.io/"
+languageCode = "en-us"
+title = "FTC History"
+theme = "hugo-theme-docport"
