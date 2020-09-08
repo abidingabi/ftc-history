@@ -4,4 +4,4 @@
 tmp/
 
 public
-resources
+resources/_gen
