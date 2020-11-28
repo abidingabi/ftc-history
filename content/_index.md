@@ -1,3 +1,0 @@
-# FTC History
-
-
