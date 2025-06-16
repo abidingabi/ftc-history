@@ -11,6 +11,7 @@ body {
 img {
     max-width: 100%;
     width: 100%;
+    align-self: center;
 }
 
 h1, h2, h3, h4 {
